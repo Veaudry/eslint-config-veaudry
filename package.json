@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-veaudry",
+  "version": "1.0.2",
+  "description": "This package provides Anthony Veaudry's .eslintrc as an extensible shared config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Veaudry/eslint-config-veaudry.git"
+  },
+  "keywords": [
+    "eslint",
+    "veaudry"
+  ],
+  "author": "Anthony Veaudry",
+  "dependencies": {
+    "css-modules": "^0.3.0",
+    "eslint-plugin-css-modules": "^2.11.0",
+    "eslint-plugin-react": "^7.12.4"
+  }
+}
