@@ -12,12 +12,10 @@ module.exports ={
   },
   "extends":[
     "eslint:recommended",
-    "plugin:react/recommended",
-    "plugin:css-modules/recommended"
+    "plugin:react/recommended"
   ],
   "plugins":[
-    "react",
-    "css-modules"
+    "react"
   ],
   "settings":{
     "react":{

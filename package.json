@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-veaudry",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This package provides Anthony Veaudry's .eslintrc as an extensible shared config.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,6 @@
   ],
   "author": "Anthony Veaudry",
   "dependencies": {
-    "css-modules": "^0.3.0",
     "eslint-plugin-css-modules": "^2.11.0",
     "eslint-plugin-react": "^7.12.4"
   }
