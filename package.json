@@ -17,7 +17,7 @@
   ],
   "author": "Anthony Veaudry",
   "dependencies": {
-    "eslint": "^8.3.0",
+    "eslint": "^10.0.0",
     "eslint-plugin-css-modules": "^2.11.0",
     "eslint-plugin-react": "^7.18.3"
   }
